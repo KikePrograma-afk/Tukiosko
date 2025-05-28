@@ -1,0 +1,4 @@
+fecha_hora,codigo_barra,nombre_producto,cantidad_vendida,cajero
+2024-03-15T10:30:00.000Z,7790001001234,Coca Cola 500ml,2,Juan
+2024-03-15T11:15:00.000Z,7790001001235,Papas Fritas,1,Juan
+2024-03-15T14:20:00.000Z,7790001001236,Alfajor Chocolate,3,María
